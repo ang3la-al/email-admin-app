@@ -1,0 +1,3 @@
+- Implemented Object-Oriented Programming (OOP) principles to model employee email accounts.
+- Applied error handling methods to validate user inputs, preventing future bugs and errors, as well as enhancing the reliability of the application.
+- Engaged in iterative testing throughout the development of the application.
